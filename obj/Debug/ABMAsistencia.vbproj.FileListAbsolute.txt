@@ -1,0 +1,372 @@
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\bin\Debug\ABMAsistencia.exe
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\bin\Debug\ABMAsistencia.pdb
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\bin\Debug\ABMAsistencia.xml
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.exe
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.xml
+C:\Users\Varguita\AppData\Local\Temporary Projects\ABMAsistencia\obj\Debug\ABMAsistencia.pdb
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.exe
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.xml
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.pdb
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\bin\Debug\ABMAsistencia.exe
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\bin\Debug\ABMAsistencia.pdb
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\bin\Debug\ABMAsistencia.xml
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ResolveAssemblyReference.cache
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.Form1.resources
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.Resources.resources
+D:\documentos\desarrollo de software\segundo año\practica\ABMAsistencia\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\Asis-master\ABMAsistencia\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.exe
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.xml
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.pdb
+D:\documentos\desarrollo de software\Asistencias\bin\Debug\ABMAsistencia.exe
+D:\documentos\desarrollo de software\Asistencias\bin\Debug\ABMAsistencia.pdb
+D:\documentos\desarrollo de software\Asistencias\bin\Debug\ABMAsistencia.xml
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ResolveAssemblyReference.cache
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.Form1.resources
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.Resources.resources
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.MateriasGrid.resources
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+D:\documentos\desarrollo de software\Asistencias\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Stackden\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\Desktop\Asis2-master\Asistencias\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Asistencias-master\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Asistencias-master\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Asistencias-master\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\TESIS\Asistencias-master\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Crear_Asistencia.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\CARENA\asistencias-main\obj\Debug\ABMAsistencia.Cargar_AlumnoMateria.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_AlumnoMateria.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Crear_Asistencia.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\CARENA - copia\asistencias-main\obj\Debug\ABMAsistencia.Modificar_AlumnoMateria.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_AlumnoMateria.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Modificar_AlumnoMateria.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Crear_Asistencia.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\CARENA - copia - copia\asistencias-main\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Cargar_AlumnoMateria.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Crear_Asistencia.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\CARENA COPIA DE SEGURIDAD\asistencias-main\obj\Debug\ABMAsistencia.Asistencia.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\bin\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\bin\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\bin\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_AlumnoMateria.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Asistencia.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Crear_Asistencia.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Stackden\Desktop\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Stackden\Desktop\DATOS REALMENTE IMPORTANTES\Programación\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\DATOS REALMENTE IMPORTANTES\Programación\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\DATOS REALMENTE IMPORTANTES\Programación\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.pdb
+C:\Users\Stackden\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.exe
+C:\Users\Stackden\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.xml
+C:\Users\Stackden\Desktop\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.pdb
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.exe
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.xml
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.pdb
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ResolveAssemblyReference.cache
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_AlumnoMateria.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Form1.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.MateriasGrid.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Asistencia.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Crear_Asistencia.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.Resources.resources
+D:\TESIS\Ultimo\asistencias-main\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+D:\TESIS\Ultimo\asistencias-main\bin\Debug\ABMAsistencia.exe
+D:\TESIS\Ultimo\asistencias-main\bin\Debug\ABMAsistencia.pdb
+D:\TESIS\Ultimo\asistencias-main\bin\Debug\ABMAsistencia.xml
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.exe
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.xml
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.pdb
+D:\TESIS\Ultimo\asistencias-main - copia\bin\Debug\ABMAsistencia.exe
+D:\TESIS\Ultimo\asistencias-main - copia\bin\Debug\ABMAsistencia.pdb
+D:\TESIS\Ultimo\asistencias-main - copia\bin\Debug\ABMAsistencia.xml
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ResolveAssemblyReference.cache
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_AlumnoMateria.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Form1.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.MateriasGrid.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Asistencia.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Crear_Asistencia.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Resources.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Seleccionador.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Lista.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Info.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.consultar.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Estadistica_Alumno.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Estadistica_Materia.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Estadistica_Carrera.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Estadistica_Profesor.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Seleccionador_Preceptor.resources
+D:\TESIS\Ultimo\asistencias-main - copia\obj\Debug\ABMAsistencia.Print_Alumno.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.exe
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.xml
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.pdb
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.consultar.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Estadistica_Alumno.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Estadistica_Carrera.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Estadistica_Materia.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Estadistica_Profesor.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Info.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Lista.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Seleccionador.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_AlumnoMateria.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Seleccionador_Preceptor.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Faq\Desktop\asistencias-main - copia\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
+C:\Users\Faq\Desktop\asistencias-main - copia\bin\Debug\ABMAsistencia.exe
+C:\Users\Faq\Desktop\asistencias-main - copia\bin\Debug\ABMAsistencia.pdb
+C:\Users\Faq\Desktop\asistencias-main - copia\bin\Debug\ABMAsistencia.xml
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.exe
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.xml
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.pdb
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\bin\Debug\ABMAsistencia.exe
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\bin\Debug\ABMAsistencia.pdb
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\bin\Debug\ABMAsistencia.xml
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.consultar.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Estadistica_Alumno.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Estadistica_Carrera.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Estadistica_Materia.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Estadistica_Profesor.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Info.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Lista.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Seleccionador.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.AlumnoGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Cargar_Alumno.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Cargar_AlumnoMateria.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Cargar_Datos.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Cargar_Carrera.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.CarrerasGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Form1.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Cargar_Materia.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.MateriasGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Cargar_Preceptor.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.PreceptoresGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Cargar_Profesor.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.ProfesoresGrid.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Seleccionador_Preceptor.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.Resources.resources
+C:\Users\Faq\Desktop\asistencias-main - copia - copia\obj\Debug\ABMAsistencia.vbproj.GenerateResource.Cache
