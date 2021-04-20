@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5941944B-1CAC-461D-8D5D-E55A5CD98AD4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ABMAsistencia.My.MyApplication</StartupObject>
+    <RootNamespace>ABMAsistencia</RootNamespace>
+    <AssemblyName>ABMAsistencia</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ABMAsistencia.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ABMAsistencia.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\AlumnoMaterias.vb" />
+    <Compile Include="Datos\Asistencias.vb" />
+    <Compile Include="Datos\Listado.vb" />
+    <Compile Include="Datos\WaterMarkTextBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IU\consultar\consultar.Designer.vb">
+      <DependentUpon>consultar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\consultar\consultar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\consultar\Estadistica_Carrera.Designer.vb">
+      <DependentUpon>Estadistica_Carrera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\consultar\Estadistica_Carrera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\consultar\Estadistica_Materia.Designer.vb">
+      <DependentUpon>Estadistica_Materia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\consultar\Estadistica_Materia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\consultar\Estadistica_Alumno.Designer.vb">
+      <DependentUpon>Estadistica_Alumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\consultar\Estadistica_Alumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\consultar\Estadistica_Profesor.Designer.vb">
+      <DependentUpon>Estadistica_Profesor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\consultar\Estadistica_Profesor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\tomar_asistencia\Info.Designer.vb">
+      <DependentUpon>Info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\tomar_asistencia\Info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\tomar_asistencia\Lista.Designer.vb">
+      <DependentUpon>Lista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\tomar_asistencia\Lista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\tomar_asistencia\Seleccionador.Designer.vb">
+      <DependentUpon>Seleccionador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\tomar_asistencia\Seleccionador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\alumnos\Cargar_AlumnoMateria.Designer.vb">
+      <DependentUpon>Cargar_AlumnoMateria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\alumnos\Cargar_AlumnoMateria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\Cargar_Datos.Designer.vb">
+      <DependentUpon>Cargar_Datos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\Cargar_Datos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\materias\Cargar_Materia.Designer.vb">
+      <DependentUpon>Cargar_Materia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\materias\Cargar_Materia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datos\alumnos.vb">
+    </Compile>
+    <Compile Include="Datos\Carreras.vb" />
+    <Compile Include="Datos\Materias.vb" />
+    <Compile Include="Datos\Preceptores.vb" />
+    <Compile Include="Datos\Profesores.vb" />
+    <Compile Include="IU\cargar_datos\alumnos\AlumnoGrid.Designer.vb">
+      <DependentUpon>AlumnoGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\alumnos\AlumnoGrid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\alumnos\Cargar_Alumno.Designer.vb">
+      <DependentUpon>Cargar_Alumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\alumnos\Cargar_Alumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datos\conexiones.vb" />
+    <Compile Include="IU\cargar_datos\carreras\Cargar_Carrera.Designer.vb">
+      <DependentUpon>Cargar_Carrera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\carreras\Cargar_Carrera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\carreras\CarrerasGrid.Designer.vb">
+      <DependentUpon>CarrerasGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\carreras\CarrerasGrid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\index\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\index\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\materias\MateriasGrid.Designer.vb">
+      <DependentUpon>MateriasGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\materias\MateriasGrid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\preceptores\Cargar_Preceptor.Designer.vb">
+      <DependentUpon>Cargar_Preceptor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\preceptores\Cargar_Preceptor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\preceptores\PreceptoresGrid.Designer.vb">
+      <DependentUpon>PreceptoresGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\preceptores\PreceptoresGrid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\profesores\Cargar_Profesor.Designer.vb">
+      <DependentUpon>Cargar_Profesor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\profesores\Cargar_Profesor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\cargar_datos\profesores\ProfesoresGrid.Designer.vb">
+      <DependentUpon>ProfesoresGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\cargar_datos\profesores\ProfesoresGrid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\tomar_asistencia\Seleccionador_Preceptor.Designer.vb">
+      <DependentUpon>Seleccionador_Preceptor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\tomar_asistencia\Seleccionador_Preceptor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="IU\consultar\consultar.resx">
+      <DependentUpon>consultar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\consultar\Estadistica_Alumno.resx">
+      <DependentUpon>Estadistica_Alumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\consultar\Estadistica_Carrera.resx">
+      <DependentUpon>Estadistica_Carrera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\consultar\Estadistica_Materia.resx">
+      <DependentUpon>Estadistica_Materia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\consultar\Estadistica_Profesor.resx">
+      <DependentUpon>Estadistica_Profesor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\tomar_asistencia\Info.resx">
+      <DependentUpon>Info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\tomar_asistencia\Lista.resx">
+      <DependentUpon>Lista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\tomar_asistencia\Seleccionador.resx">
+      <DependentUpon>Seleccionador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\alumnos\AlumnoGrid.resx">
+      <DependentUpon>AlumnoGrid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\alumnos\Cargar_Alumno.resx">
+      <DependentUpon>Cargar_Alumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\alumnos\Cargar_AlumnoMateria.resx">
+      <DependentUpon>Cargar_AlumnoMateria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\Cargar_Datos.resx">
+      <DependentUpon>Cargar_Datos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\carreras\Cargar_Carrera.resx">
+      <DependentUpon>Cargar_Carrera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\carreras\CarrerasGrid.resx">
+      <DependentUpon>CarrerasGrid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\index\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\materias\Cargar_Materia.resx">
+      <DependentUpon>Cargar_Materia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\materias\MateriasGrid.resx">
+      <DependentUpon>MateriasGrid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\preceptores\Cargar_Preceptor.resx">
+      <DependentUpon>Cargar_Preceptor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\preceptores\PreceptoresGrid.resx">
+      <DependentUpon>PreceptoresGrid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\profesores\Cargar_Profesor.resx">
+      <DependentUpon>Cargar_Profesor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\cargar_datos\profesores\ProfesoresGrid.resx">
+      <DependentUpon>ProfesoresGrid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\tomar_asistencia\Seleccionador_Preceptor.resx">
+      <DependentUpon>Seleccionador_Preceptor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alumno.png" />
+    <None Include="Resources\1.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\b.png" />
+    <None Include="Resources\c.png" />
+    <None Include="Resources\carena.png" />
+    <None Include="Resources\v.png" />
+    <None Include="Resources\header.png" />
+    <None Include="Resources\piso.png" />
+    <None Include="Resources\carrera.png" />
+    <None Include="Resources\profesor.png" />
+    <None Include="Resources\preceptor.png" />
+    <None Include="Resources\materia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
