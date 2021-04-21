@@ -1,4 +1,4 @@
-<h1 align="center"> Chester Bot </h1>
+<h1 align="center"> Sistema de Asistencias </h1>
 
 
 <p align="center">
