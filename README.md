@@ -18,6 +18,13 @@ Asistencias, es un sistema de asistecncias desarrollado como proyecto de tesis p
 
 
 ***
+<h2 align="center"> ¿De qué trata el sistema?</h2>
+</center>
+
+El sistema consta de tres secciones principales: carga de datos, tomar asistencia y generar estadísticas.
+
+
+***
 <center>
 
 <h2 align="center"> Mis Redes </h2>
