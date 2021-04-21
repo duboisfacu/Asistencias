@@ -11,7 +11,7 @@
 ***
 <center>
 
-<h2 align="center"> ¿De que consta este repositorio?</h2>
+<h2 align="center"> ¿De qué consta este repositorio?</h2>
 </center>
 
 Es un sistema de asistecncias desarrollado como proyecto de tesis para la Tecnicatura Superior en Desarrollo de Software en el <a href="https://iscarena-cba.infd.edu.ar/sitio/" target="_blank">Instituto Superior Dr. Carlos María Carena</a>.
