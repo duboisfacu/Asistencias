@@ -18,8 +18,7 @@ En la secundaria, siempre a la hora del recreo nos ibamos con mis amigos a un lu
 
 __Chester__ era una comadreja que vivía en un <a href="https://http2.mlstatic.com/D_NQ_NP_912868-MLA44083006894_112020-O.jpg" target="_blank">tacho</a> de basura azul muy próximo al Sector.
 Al notar su precencia, decidimos apodarla "Chester, haciendo alución al amigo de Timmy Turner de la serie <a href="https://www.youtube.com/watch?v=y0E2ZO99-h8" target="_blank">los padrinos mágicos</a>, esto fue a causa de que Chester en la serie vivía en situaciones precarias.
-***
-<center>
+
 
 ***
 <center>
