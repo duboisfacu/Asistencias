@@ -11,7 +11,7 @@
 ***
 <center>
 
-<h2 align="center"> Desarrollado como Tesis para la Tecnicatura Superior en Desarrollo de Software</h2>
+<h2 align="center"> Desarrollado como tesis para la Tecnicatura Superior en Desarrollo de Software</h2>
 </center>
 
 
