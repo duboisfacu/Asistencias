@@ -21,11 +21,11 @@ Es un sistema de asistecncias desarrollado como proyecto de tesis para la Tecnic
 <h2 align="center"> ¿De qué trata el sistema?</h2>
 </center>
 
-El sistema consta de tres secciones principales: carga de datos, toma de asistencia y consulta con estadística.
+ -El sistema consta de tres secciones principales: carga de datos, toma de asistencia y consulta con estadística.
 
-En la sección carga de datos se deben cargar: carrera, materia, profesor, preceptor y alumno.
+ -En la sección carga de datos se deben cargar: carrera, materia, profesor, preceptor y alumno.
 
-En la sección toma de asistencia se debe seleccionar el día y la materia para poder validar la precencialidad de los alumnos en la misma.
+ -En la sección toma de asistencia se debe seleccionar el día y la materia para poder validar la precencialidad de los alumnos en la misma.
 
 En la sección consulta con estadística se obtienen los porcentajes de asistencia por alumno, profesor, materia o carrera.
 ***
