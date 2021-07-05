@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="README.resources/asis">
+  <a href="https://github.com/duboisfacu/asistencias">
   <img height=250px src="https://i.ibb.co/jrr8vDY/Asistencias.png"/>
   </a>
 </p>
